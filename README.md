@@ -1,8 +1,6 @@
 ![DotNet Micro Services](https://github.com/UmerIftikhar/MicroService_NetCore/blob/master/microservices.png)
 
 The code in this Repository is explained in the following series:   
-Creating Micro Services using Domain Driven Design  
-
 [Creating Micro Services using Domain Driven Design](https://medium.com/microservices-using-dotnet-core)   
 
 Series is divided in to following parts:   
