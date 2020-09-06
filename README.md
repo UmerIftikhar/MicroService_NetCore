@@ -1,4 +1,4 @@
-![DotNet Micro Services](https://raw.githubusercontent.com/devmentors/Pacco/master/assets/pacco_logo.png)
+![DotNet Micro Services](https://github.com/UmerIftikhar/MicroService_NetCore/blob/master/microservices.png)
 
 The code in this Repository is explained in the following series:   
 Creating Micro Services using Domain Driven Design  
