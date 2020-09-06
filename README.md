@@ -9,3 +9,8 @@ Series is divided in to following parts:
 3. Create the Infrastructure layer  for the Project.   
 4. Create the Application layer  for the Project.  
 5. Create the API layer  for the Project.  
+
+**Technologies Used:**  
+1. [.NET CORE](https://dotnet.microsoft.com/download)  
+2. [MSSQL SERVER](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)  
+3. [RABBIT MQ](https://www.rabbitmq.com/)
